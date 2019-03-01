@@ -1,5 +1,6 @@
 # nodejs_api
 Project created using step by step of Rocketset course.
+This is a litter api project to get start with nodeJS.
 
 How to start from scratch<br>
 1. npm init -y
